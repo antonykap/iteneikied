@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ioghaequi.wasstallmanright.com/sitemap.xml
